@@ -18,5 +18,5 @@
 
 [![C](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-### ATUALMENTE ESTUD ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
+### ATUALMENTE ESTUDO ANÁLISE E DESENVOLVIMENTO DE SISTEMAS
 ### UM APAIXONADO POR TECNOLOGIA
